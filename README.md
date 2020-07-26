@@ -12,9 +12,6 @@ The following **required** functionality is complete:
 
 * [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 
-
-The following **additional** features are implemented:
-
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
@@ -22,10 +19,6 @@ Here's a walkthrough of implemented user stories:
 <img src='http://g.recordit.co/Smylxx0J0U.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [Recordit](https://recordit.co/).
-
-## Notes
-
-Describe any challenges encountered while building the app.
 
 ## License
 
